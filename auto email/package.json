@@ -1,0 +1,15 @@
+{
+  "name": "auto-email",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "email.js",
+  "scripts": {
+    "start":  "node email.js"
+  },
+  "author": "Sawska",
+  "license": "ISC",
+  "dependencies": {
+    "emailjs": "^4.0.1"
+  }
+}
